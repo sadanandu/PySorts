@@ -1,0 +1,4 @@
+1.Quick Sort Variants (Iterative, recursive)
+2.Partition function variants (depending on pivot choices)
+3.GUI to select the options then view the statistics
+
